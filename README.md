@@ -1,0 +1,2 @@
+# CancerTrace
+CancerTrace visualizes and interprets cancer risk factors through a dual AI approach. A high-accuracy XGBoost model and an interpretable SHAP-based system analyze clinical and lifestyle biomarkers (e.g., Smoking, BMI, Family History, and other related factors) to identify top risk drivers per cancer type. Results are displayed in an interactive Streamlit dashboard with dynamic charts, enabling explainable, data-driven insights for early cancer risk assessment and prevention.
