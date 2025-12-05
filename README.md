@@ -69,28 +69,67 @@ Dashboard Insights: Heatmaps for correlations, bar charts for distributions, LOE
 
 ---
 
-## Screenshots:
+## 📸 Screenshots
+
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center" width="33%" style="padding: 15px;">
+      <strong>Dashboard Overview</strong><br>
+    </td>
+    <td align="center" width="33%" style="padding: 15px;">
+      <strong>Population Overview</strong><br>
+    </td>
+    <td align="center" width="33%" style="padding: 15px;">
+      <strong>Risk Level by Cancer Type</strong><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" style="padding: 15px;">
+      <img src="asset/dashboard_overview.png" height="250"
+           style="border:1px solid #444; border-radius:10px; box-shadow:0 0 8px rgba(0,0,0,0.4);">
+    </td>
+    <td align="center" width="33%" style="padding: 15px;">
+      <img src="asset/population_overview.png" height="250"
+           style="border:1px solid #444; border-radius:10px; box-shadow:0 0 8px rgba(0,0,0,0.4);">
+    </td>
+    <td align="center" width="33%" style="padding: 15px;">
+      <img src="asset/rl.png" height="250"
+           style="border:1px solid #444; border-radius:10px; box-shadow:0 0 8px rgba(0,0,0,0.4);">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="33%" style="padding: 15px;">
+      <strong>Top Risk Factors Radar Chart</strong><br>
+    </td>
+    <td align="center" width="33%" style="padding: 15px;">
+      <strong>Smoking vs Risk by Cancer Type</strong><br>
+    </td>
+    <td align="center" width="33%" style="padding: 15px;">
+      <strong>Family History</strong><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" style="padding: 15px;">
+      <img src="asset/radar.png" height="250"
+           style="border:1px solid #444; border-radius:10px; box-shadow:0 0 8px rgba(0,0,0,0.4);">
+    </td>
+    <td align="center" width="33%" style="padding: 15px;">
+      <img src="asset/smoke.png" height="250"
+           style="border:1px solid #444; border-radius:10px; box-shadow:0 0 8px rgba(0,0,0,0.4);">
+    </td>
+    <td align="center" width="33%" style="padding: 15px;">
+      <img src="asset/genetic.png" height="250"
+           style="border:1px solid #444; border-radius:10px; box-shadow:0 0 8px rgba(0,0,0,0.4);">
+    </td>
+  </tr>
+</table>
 
 
-Dashboard Overview: 
 
-![Dashboard Overview](asset/dashboard_overview.png)
 
-Population Overview:
-
-![Dashboard Overview](asset/population_overview.png)
-
-Risk level by cancer type: 
-
-![Dashboard Overview](asset/rl.png)
-
-Top Risk Factors Radar Chart: 
-
-![Dashboard Overview](asset/radar.png)
-
-Smoking vs Risk by Cancer type: 
-
-![Dashboard Overview](asset/smoke.png)
 
 ---
 
