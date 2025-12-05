@@ -71,8 +71,6 @@ Dashboard Insights: Heatmaps for correlations, bar charts for distributions, LOE
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 <table>
   <tr>
     <td align="center" width="33%" style="padding: 15px;">
